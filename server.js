@@ -32,6 +32,7 @@ const MODEL_MAPPING = {
   'glm5': 'z-ai/glm5',
   'kimi-k2.5': 'moonshotai/kimi-k2.5',
   'deepseek-3.2': 'deepseek-ai/deepseek-v3.2',
+  'minimax-m2.5': 'minimaxai/minimax-m2.5',
 };
 
 // Health check endpoint
