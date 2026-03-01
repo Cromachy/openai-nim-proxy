@@ -30,10 +30,8 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'glm5': 'z-ai/glm5',
-  'glm4_7': 'z-ai/glm4_7',
   'kimi-k2.5': 'moonshotai/kimi-k2.5',
   'deepseek-3.2': 'deepseek-ai/deepseek-v3.2',
-  'qwen3.5': 'qwen/qwen3.5-397b-a17b',
   
 };
 
